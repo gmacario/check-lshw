@@ -4,8 +4,10 @@ Instructions
 
 ```bash
 sudo apt install -y lshw
-sudo lshw -html >dist/index.html
 npm install
+
+mkdir -p dist
+sudo lshw -html >dist/index.html
 npm start
 ```
 
