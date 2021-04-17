@@ -1,0 +1,23 @@
+{
+  "name": "check-lshw",
+  "version": "1.0.0",
+  "description": "Check hardware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmacario/check-lshw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmacario/check-lshw/issues"
+  },
+  "homepage": "https://github.com/gmacario/check-lshw#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
